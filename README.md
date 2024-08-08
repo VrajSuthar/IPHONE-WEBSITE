@@ -1,2 +1,4 @@
-Hello Everyone ,
-This is a iphone website which is created by react + vite annd tailwind css. 
+Hello Everyone,
+This is the video of the Iphone website
+
+<a href="C:\web projects\react partice project\iphone-main\Untitled video - Made with Clipchamp.mp4">
